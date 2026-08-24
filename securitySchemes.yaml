@@ -6,4 +6,4 @@ components:
       bearerFormat: JWT # Опционально, для GitHub это просто строка
 
 security:
-  - bearerAuth: [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]
+  - bearerAuth: []
