@@ -3,7 +3,7 @@ components:
     bearerAuth:
       type: http
       scheme: bearer
-      bearerFormat: JWT # Опционально, для GitHub это просто строка
+      bearerFormat: JWT
 
 security:
   - bearerAuth: []
